@@ -2,7 +2,7 @@ build:
   info: "prod-config"
 
 accounts:
-  message: "Welcome to accounts related production APIs "
+  message: "Welcome to accounts related prod APIs "
   contactDetails:
     name: "Yogindersingh - Developer"
   onCallSupport:
