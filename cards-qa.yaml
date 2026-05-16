@@ -2,7 +2,7 @@ build:
   info: "qa-config"
 
 cards:
-  message: "Welcome to cards related qa APIs "
+  message: "Welcome to cards related QA APIs "
   contactDetails:
     name: "Yogindersingh - Developer"
   onCallSupport:
