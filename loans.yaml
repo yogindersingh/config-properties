@@ -2,7 +2,7 @@ build:
   info: "default-config"
 
 loans:
-  message: "Welcome to loans related default APIs "
+  message: "Welcome to loans related Default APIs "
   contactDetails:
     name: "Yogindersingh - Developer"
   onCallSupport:
